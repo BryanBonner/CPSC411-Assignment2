@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  LabelLab
+//  Assignment2 - BMI Calculator
 //
-//  Created by CampusUser on 2/6/17.
-//  Copyright © 2017 CPSC411. All rights reserved.
+//  Bryan Bonner
+//  CPSC 411
 //
 
 import UIKit
